@@ -1,0 +1,17 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Squada+One&family=Trocchi&display=swap');
+
+
+
+body{
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    align-items: center;
+    background-color:rgb(74, 95, 182);
+    font-family: "Trocchi", serif;
+    font-weight: 400;
+    font-style: normal;
+    color: black;
+}
